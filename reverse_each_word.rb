@@ -6,6 +6,3 @@ def reverse_each_word(string)
   
 end
 
-phrase = 'dont even say nothing to me boi you look like a muhhfucking uhh'
-
-p reverse_each_word(phrase)
